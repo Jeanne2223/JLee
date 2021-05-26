@@ -4,7 +4,7 @@ Hi Raju,
 
 Thank you for reaching out to us.
 
-As mentioned in the email notification you have received, you were marked *Absent* for the class last Wednesday, May 19, 2021. Based on our record, you attended class for only *10 minutes* which did not meet the criteria to be counted as *Present*. 
+As mentioned in the email notification you have received, you were marked Absent for the class last Wednesday, May 19, 2021. Based on our record, you attended class for only *10 minutes* which did not meet the criteria to be counted as *Present*. 
 
 As per course policy, there are 3 instances for a student to be marked *Absent*.
 - Requested Absence filed at least 3 months before the scheduled absence.
@@ -17,5 +17,4 @@ For your reference on the attendance and other course policies, check this **[Co
 Hope this clarifies your concern.
 
 Regards,
-
 CodePath.org Team
