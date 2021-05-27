@@ -1,4 +1,4 @@
-# Scenario 3
+# Scenario C
 
 Hey Farhan,
 
