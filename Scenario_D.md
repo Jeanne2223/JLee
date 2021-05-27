@@ -2,7 +2,7 @@
 
 Hi Ranchodas,
 
-We are glad to hear of your opportunity to do your internship at Microsoft. We understand that this is a rare opportunity and we want you to succeed.
+We are glad to hear of your opportunity to do your internship at Microsoft. We understand that this is a rare opportunity and we hope for your success.
 
 As per your request, you have been moved to *Observer* status for the CodePath Android Course this semester. Please take note of the list below to know what being an *Observer* means .
 1. You have lifetime access to the course material and can study it at your own pace.
