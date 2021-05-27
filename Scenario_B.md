@@ -14,5 +14,6 @@ You may email us at admissions@codepath.org for next semester's schedule of clas
 
 We look forward to having you in the next semester. 
 
-All the best,
+
+All the best,  
 CodePath.org Team
