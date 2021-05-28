@@ -16,5 +16,5 @@ For your reference on the attendance and other course policies, check this **[Co
 
 Hope this clarifies your concern.
 
-Regards,
-CodePath.org Team
+Regards,  
+CodePath.org Team  
